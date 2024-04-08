@@ -1,8 +1,8 @@
 # Ubuntu scheme
-# (Made by emmet https://gitlab.com/librephoenix)
+# (Made by emmet https://github.com/KryostniySergo)
 # Based on https://design.ubuntu.com/brand/colour-palette
 scheme: "Ubuntu"
-author: "librephoenix (https://gitlab.com/librephoenix)"
+author: "librephoenix (https://github.com/KryostniySergo)"
 base00: "2C001E" # ----
 base01: "411934" # ---
 base02: "56334B" # --

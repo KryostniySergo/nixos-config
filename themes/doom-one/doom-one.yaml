@@ -2,7 +2,7 @@
 # Based on Doom One by hlissner (https://github.com/doomemacs/themes)
 # With help from doom-one.vim by romgrk (https://github.com/romgrk/doom-one.vim)
 scheme: "Doom One"
-author: "librephoenix (https://gitlab.com/librephoenix)"
+author: "librephoenix (https://github.com/KryostniySergo)"
 base00: "1b2229" # ----
 base01: "3f444a" # ---
 base02: "5B6268" # --

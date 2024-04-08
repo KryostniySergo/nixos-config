@@ -1,7 +1,7 @@
 #+title: Ember
 #+author: Emmet
 
-"Ember" base-16 theme originally by me ([[https://gitlab.com/librephoenix]], [[https://github.com/librephoenix]]).
+"Ember" base-16 theme originally by me ([[https://github.com/KryostniySergo]], [[https://github.com/librephoenix]]).
 
 [[https://raw.githubusercontent.com/librephoenix/nixos-config-screenshots/main/hyprland/ember.png]]
 

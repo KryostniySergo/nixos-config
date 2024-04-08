@@ -2,7 +2,7 @@
 # Based on manegarm in doom-themes (https://github.com/doomemacs/themes) 
 # by kenranunderscore (https://github.com/kenranunderscore)
 scheme: "Manegarm"
-author: "librephoenix (https://gitlab.com/librephoenix)"
+author: "librephoenix (https://github.com/KryostniySergo)"
 base00: "1c1408" # ----
 base01: "241c0a" # ---
 base02: "351a0f" # --

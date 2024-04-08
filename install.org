@@ -50,7 +50,7 @@ Disclaimer: If you install my =homelab= or =worklab= profiles /CHANGE THE PUBLIC
 *** Install From Local Git Clone
 The dotfiles can be installed after cloning the repo into =~/.dotfiles= using:
 #+BEGIN_SRC sh :noeval
-git clone https://gitlab.com/librephoenix/nixos-config.git ~/.dotfiles
+git clone https://github.com/KryostniySergo/nixos-config.git ~/.dotfiles
 ~/.dotfiles/install.sh
 #+END_SRC
 
@@ -80,7 +80,7 @@ If you instead want to install this manually to see all the steps (kind of like 
 *** Clone Repo and Modify Configuration
 Start by cloning the repo:
 #+BEGIN_SRC sh :noeval
-git clone https://gitlab.com/librephoenix/nixos-config.git ~/.dotfiles
+git clone https://github.com/KryostniySergo/nixos-config.git ~/.dotfiles
 #+END_SRC
 
 To get the hardware configuration on a new system, either copy from =/etc/nixos/hardware-configuration.nix= or run:

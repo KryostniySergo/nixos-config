@@ -1,7 +1,7 @@
 #+title: NixOS Config
 #+author: Emmet
 
-[[https://gitlab.com/librephoenix/nixos-config][Main Repo Link (GitLab)]]
+[[https://github.com/KryostniySergo/nixos-config][Main Repo Link (GitLab)]]
 
 [[https://github.com/librephoenix/nixos-config][Mirror Repo Link (GitHub)]]
 

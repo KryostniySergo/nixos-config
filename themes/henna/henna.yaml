@@ -1,7 +1,7 @@
 # Henna scheme
 # Based on vscode-henna by httpsterio (https://github.com/httpsterio/vscode-henna)
 scheme: "Henna"
-author: "librephoenix (https://gitlab.com/librephoenix)"
+author: "librephoenix (https://github.com/KryostniySergo)"
 base00: "10151a" # ----
 base01: "1B1F23" # ---
 base02: "2c313a" # --
